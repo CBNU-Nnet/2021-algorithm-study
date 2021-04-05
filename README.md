@@ -12,7 +12,7 @@
 
 ### 문제 사이트
 * [BaekJoon Online Judge](https://www.acmicpc.net/) - 문제 수가 굉장히 많은것이 장점, [solved.ac](https://solved.ac/problems/level)와 연동해서 사용하는것을 추천
-* [Programeers](https://programmers.co.kr/) - 레벨별로 문제가 수록되어 있음, 알고리즘뿐만 아니라 SQL, 과제등도 공부할 수 있음, 최근 많은 국내 기업들과 연계하여 코딩테스트를 진행
+* [Programmers](https://programmers.co.kr/) - 레벨별로 문제가 수록되어 있음, 알고리즘뿐만 아니라 SQL, 과제등도 공부할 수 있음, 최근 많은 국내 기업들과 연계하여 코딩테스트를 진행
 * [LeetCode](https://leetcode.com/) - 세계적으로 유명한 알고리즘 사이트, 문제가 영어로되어있음, FAANG의 기출 문제 수록
 * [SW Expert Academy](https://swexpertacademy.com/main/main.do) - 삼성에서 운영하는 알고리즘 사이트, 문제 난이도가 8개로 나뉘어짐, 상시 SW역량테스트 신청가능
 * [Codeforces](https://codeforces.com/) - 해외 알고리즘 사이트, 주 2회 이상의 알고리즘 대회, 코딩테스트보다는 알고리즘 대회에 관심있는 경우 추천

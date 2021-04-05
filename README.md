@@ -9,6 +9,7 @@
 - 2, 3, 4학년의 경우 백준에서 푼 문제들의 소스코드를 깃허브에 업로드하시면 됩니다.
 - 1학년의 경우 [C언어 코딩 도장](https://dojang.io/course/view.php?id=2)에서 푼 문제는 C언어 스터디 카톡방에 공부 인증 사진 업로드, 백준에서 푼 문제는 깃허브에 업로드하시면 됩니다.
 - 문제 선택은 [solved.ac](https://solved.ac/problems/level)에서 난이도를 고려하여 선택해주시는 것을 권장드립니다. (각 학년에 맞는 class 선택을 권장드립니다)
+- 문제에 대한 질문은 [깃허브 이슈탭](https://github.com/CBNU-Nnet/algorithm-study/issues)에서 템플릿에  작성해주세요
 
 ### 문제 사이트
 * [BaekJoon Online Judge](https://www.acmicpc.net/) - 문제 수가 굉장히 많은것이 장점, [solved.ac](https://solved.ac/problems/level)와 연동해서 사용하는것을 추천

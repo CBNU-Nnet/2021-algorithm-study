@@ -16,8 +16,7 @@ void deleteLows(string& number, int &i) {
 
 int findMin(string number, int value) {
     int min = 0;
-    for (int i = 1; i < number.size(); i++) {
-        if (number[value] == number[i]) break;
+    for (int i = 1; i < value; i++) {
         if (number[i] < number[min]) min = i;
     }
     return min;
@@ -50,7 +49,6 @@ void searchingForLow(string& number, int& k) {
     int s = number.size();
     deleteMin(number, k, s);
 }
-
 
 string solution(string number, int k) {
     string answer = "";
